@@ -1,4 +1,4 @@
-# Chat Application
+# "Connect" A Chat Application
 
 ## Overview
 This chat application is a modern, full-stack web application built with a focus on performance, scalability, and ease of use. It provides real-time messaging capabilities with secure authentication methods, leveraging Google Firebase for Google authentication and JWT for custom authentication.
